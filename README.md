@@ -3,10 +3,15 @@ Welcome to Cancer_ABM_Project,
 Here we simultate HELA Cells (or any other kind of cells) with the use of Biodynamo ABM and we tune the models using Bayesian Optimization or Genetic Algorithm.
 
 Code files included:
+
 Bayesian optimaziation code generator python code 
+
 Genetic algorithm code generator python code
+
 Python code to generate the target CSV files from Data XLS files
+
 Python code to generate graphs
+
 Genreated Python model code for both Bayesian optimization and Genetic algorithm (This is just included for refrence only and will not work. Please generate your own code instead)
 
 Model configuration:
