@@ -1,0 +1,6 @@
+current_time, N_vessels, N_cells, N_cells_pheno_0, N_cells_pheno_1, N_cells_pheno_1_Ap, N_cells_pheno_1_G1, N_cells_pheno_1_Sy, N_cells_pheno_1_G2, N_cells_pheno_1_Di, N_cells_pheno_1_Tr, N_cell_protrusions
+0,0,1000,0,1000,185,428,133,254,0,0,0
+3,0,899,0,899,470,68,35,326,0,0,0
+5,0,856,0,856,494,99,82,181,0,0,0
+7,0,423,0,423,283,60,25,55,0,0,0
+11,0,205,0,205,137,45,9,14,0,0,0
